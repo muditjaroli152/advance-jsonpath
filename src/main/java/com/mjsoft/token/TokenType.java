@@ -1,0 +1,5 @@
+package com.mjsoft.token;
+
+public enum TokenType {
+    ROOT,PROPERTY,FILTER,SLICE_ARRAY,INDEX_ARRAY,DOT,FUNCTION,WILDCARD,BACK_TRAVERS
+}
